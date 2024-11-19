@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943451945465",
+    "project_id": "taskapk-4d84d",
+    "storage_bucket": "taskapk-4d84d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943451945465:android:ba826c41d7c248e620e528",
+        "android_client_info": {
+          "package_name": "com.rayka.taskapk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKI1XlX1-9rY7zaihX3usBKQ8mJ9Vu5wE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
